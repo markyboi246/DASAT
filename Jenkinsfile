@@ -36,7 +36,7 @@ pipeline {
                 '''
             }
         }
-
+}
         stage('Security Scan') {
             steps {
                 script {
