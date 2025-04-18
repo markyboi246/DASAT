@@ -2,7 +2,6 @@
   "name": "frontend",
   "version": "17.1.0",
   "scripts": {
-    "start":"node app.js",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
